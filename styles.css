@@ -210,6 +210,7 @@ color: rgb(232, 30, 250);
 
 .rainbow .username{
   color: rgb(130, 0, 0);
+  font-family: 'Faster One', cursive;
 }
 .rainbow .tiktok{
   background: rgba(1, 1, 247, 0.714);
