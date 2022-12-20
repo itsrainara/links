@@ -52,13 +52,14 @@ h1{
 .username{
   display: block;
   align-items: center;
-  width: 40%;
+  width: 100%;
+  text-align: center;
   
 
   font-family: 'Faster One', cursive;
   font-weight: 400;
   opacity: 0.8;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 ul {
